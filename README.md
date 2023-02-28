@@ -26,7 +26,9 @@ To run the application, you should have python 3 and pip installed on your machi
     python3 manage.py runserver
     ```
 ## Usage
-    The app provides the following endpoints:
+
+The app provides the following endpoints:
+
 *   **`POST /api/user/register/`** : Create a user.
     #### JSON example
     ```
